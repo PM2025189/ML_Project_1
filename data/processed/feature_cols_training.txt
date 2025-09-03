@@ -1,0 +1,77 @@
+Access to electricity (% of population)_lag1
+Access to electricity (% of population)_lag1_lag1
+Access to electricity (% of population)_roll3_lag1
+Access to electricity (% of population)_yoy.1_lag1
+Access to electricity (% of population)_yoy_lag1
+Current health expenditure (% of GDP)_lag1
+Current health expenditure (% of GDP)_lag1_lag1
+Current health expenditure (% of GDP)_roll3_lag1
+Current health expenditure (% of GDP)_yoy.1_lag1
+Current health expenditure (% of GDP)_yoy_lag1
+Current health expenditure per capita (current US$)_lag1
+Current health expenditure per capita (current US$)_lag1_lag1
+Current health expenditure per capita (current US$)_roll3_lag1
+Current health expenditure per capita (current US$)_yoy.1_lag1
+Current health expenditure per capita (current US$)_yoy_lag1
+GDP_pc_imputed_lag1
+GDP_pc_imputed_lag1_lag1
+GDP_pc_imputed_roll3_lag1
+GDP_pc_imputed_yoy.1_lag1
+GDP_pc_imputed_yoy_lag1
+"Government expenditure on education, total (% of GDP)_lag1"
+"Government expenditure on education, total (% of GDP)_lag1_lag1"
+"Government expenditure on education, total (% of GDP)_roll3_lag1"
+"Government expenditure on education, total (% of GDP)_yoy.1_lag1"
+"Government expenditure on education, total (% of GDP)_yoy_lag1"
+"Hospital beds (per 1,000 people)_lag1"
+"Hospital beds (per 1,000 people)_lag1_lag1"
+"Hospital beds (per 1,000 people)_roll3_lag1"
+"Hospital beds (per 1,000 people)_yoy.1_lag1"
+"Hospital beds (per 1,000 people)_yoy_lag1"
+"Immunization, DPT (% of children ages 12-23 months)_lag1"
+"Immunization, DPT (% of children ages 12-23 months)_lag1_lag1"
+"Immunization, DPT (% of children ages 12-23 months)_roll3_lag1"
+"Immunization, DPT (% of children ages 12-23 months)_yoy.1_lag1"
+"Immunization, DPT (% of children ages 12-23 months)_yoy_lag1"
+"Literacy rate, adult total (% of people ages 15 and above)_lag1"
+"Literacy rate, adult total (% of people ages 15 and above)_lag1_lag1"
+"Literacy rate, adult total (% of people ages 15 and above)_roll3_lag1"
+"Literacy rate, adult total (% of people ages 15 and above)_yoy.1_lag1"
+"Literacy rate, adult total (% of people ages 15 and above)_yoy_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1_lag1_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1_roll3_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1_yoy.1_lag1"
+"Mortality rate, infant (per 1,000 live births)_lag1_yoy_lag1"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_lag1"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_lag1_lag1"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_roll3_lag1"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_yoy.1_lag1"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_yoy_lag1"
+health_exp_share_lag1
+health_exp_share_lag1_lag1
+health_exp_share_roll3_lag1
+health_exp_share_yoy.1_lag1
+health_exp_share_yoy_lag1
+log1p_health_exp_pc_lag1
+log1p_health_exp_pc_lag1_lag1
+log1p_health_exp_pc_roll3_lag1
+log1p_health_exp_pc_yoy.1_lag1
+log1p_health_exp_pc_yoy_lag1
+y_t1_lag1
+Access to electricity (% of population)_roll3
+Current health expenditure (% of GDP)_roll3
+Current health expenditure per capita (current US$)_roll3
+GDP_pc_imputed_roll3
+"Government expenditure on education, total (% of GDP)_roll3"
+"Hospital beds (per 1,000 people)_roll3"
+"Immunization, DPT (% of children ages 12-23 months)_roll3"
+"Literacy rate, adult total (% of people ages 15 and above)_roll3"
+"Mortality rate, infant (per 1,000 live births)_lag1_roll3"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)_roll3"
+health_exp_share_roll3
+log1p_health_exp_pc_roll3
+health_exp_share
+log1p_health_exp_pc
+GDP_pc_imputed
